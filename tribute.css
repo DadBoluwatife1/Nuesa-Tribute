@@ -1,0 +1,60 @@
+*{
+font-family: 'Fraunces', serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Outfit', sans-serif;
+font-family: 'Poppins', sans-serif;
+color: hsl(218, 44%, 22%);
+}
+body{
+    background: #eee;;
+    max-width: 1200px;
+    margin: auto;
+}
+#main{
+    max-width: 1200px;
+}
+#title{
+    text-align: center;
+}
+
+ div .img{
+    
+    background-color: white;
+}
+img{
+    width: 100%;
+    object-fit: contain;
+    max-width: 500px;
+    margin-left: 300px;
+    padding: 50px;
+    border-radius: 50%;
+
+}
+a{
+    text-decoration: none;
+    color: #477ca7;
+}
+
+figcaption{
+    text-align: center;
+    padding: 10px;
+    margin-top: 5px;
+}
+h3{
+    text-align: center;
+    padding: 20px;
+    margin: 30px;
+}
+ul {
+    max-width: 550px;
+    margin:  50px auto;
+    line-height: 30px;
+    font-size: medium;
+  }
+  .blockquote{
+    font-style: italic;
+    width: 500px;
+    line-height: 25px;
+    text-align: left;
+    margin-left: 300px;
+  }
